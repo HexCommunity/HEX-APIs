@@ -1,4 +1,4 @@
-# HEX-APIs
+# HEX REST APIs
 Public HEX API endpoints hosted by https://t.me/firebun
 
 #### Total Supply
@@ -30,3 +30,9 @@ https://uniswapdataapi.azurewebsites.net/api/market/HEX
 
 #### Uniswap Order Book - For Token (Token ticker without /ETH)
 https://uniswapdataapi.azurewebsites.net/api/orderBook/HEX
+
+# HEX CSV Exports
+Useful tables where raw/formatted CSVs can be downloaded
+
+#### BTC Free Claims & HEX Minted Daily
+https://hex.vision/goto/d9ea3ebd1b8a214dd4d609316b1ad03a
