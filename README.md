@@ -36,3 +36,6 @@ Useful tables where raw/formatted CSVs can be downloaded
 
 #### BTC Free Claims & HEX Minted Daily
 https://hex.vision/goto/d9ea3ebd1b8a214dd4d609316b1ad03a
+
+#### Circulating/Locked/Total HEX Daily
+https://hex.vision/goto/fd188499c1669cec81914f0944e62880
