@@ -16,6 +16,9 @@ https://hexvisionpublicapi.azurewebsites.net/api/Supply
 #### Share Information
 https://hexvisionpublicapi.azurewebsites.net/api/ShareInfo
 
+#### Staking Information
+https://hexvisionpublicapi.azurewebsites.net/api/StakingInfo
+
 #### HEX/ETH/BTC Pricing (Uniswap)
 https://hexvisionbusinessapi.azurewebsites.net/api/stats
 
